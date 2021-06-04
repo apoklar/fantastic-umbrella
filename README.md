@@ -2,6 +2,8 @@
 
 For this project, Object-Relational Mapping (ORM) is used to create the back end of a internet retail company. This project uses Espress.js as well as Sequelize and MySQL.
 
+Using the back end and insomnia, this project allows the user to GET, POST and DELETE for categories, tags, and products.
+
 The walkthrough videos can be found below:
 
 How to start project:
